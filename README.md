@@ -77,13 +77,11 @@ ne yapmak istiyorsun: 2
 
 * Karamazov Kardeşler
 
-
 1. kitap ekle
 2. kitap listele
 ne yapmak istiyorsun: 
 
 # bu şekilde devam ediyor
-
 ```
 
 ### Level 1 - Email Slicer
